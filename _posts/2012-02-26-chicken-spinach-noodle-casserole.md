@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chicken, Spinach, and Noodle Casserole"
-date:   2012-02-26
+title: "Chicken, Spinach, and Noodle Casserole"
+date: 2012-02-26
 categories: recipes
 tags: dinner
 ---
