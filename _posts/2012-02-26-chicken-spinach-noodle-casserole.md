@@ -5,7 +5,7 @@ date: 2012-02-26
 categories: recipes
 tags: dinner
 ---
-![picture of the recipe](/assets/images/2012-02-26_casserole.jpg)
+![picture of the recipe](/assets/images/2012-02-26-casserole.jpg)
 
 Chicken, Spinach, and Noodle Casserole
 ======================================

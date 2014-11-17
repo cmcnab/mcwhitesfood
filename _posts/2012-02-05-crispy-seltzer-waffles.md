@@ -20,7 +20,7 @@ Crispy Seltzer Waffles
 - 1¾ cups seltzer or club soda (from a new bottle)
 - Vegetable oil for brushing waffle iron
 
-_Accompaniments:_ butter; pure maple syrup
+_Accompaniments:_ butter; pure maple syrup  
 _Special Equipment:_ a well-seasoned or nonstick Belgian waffle iron or a standard waffle iron
 
 Preheat waffle iron.  Put a rack in the middle of oven and put a large cooling rack on it.  Preheat oven to 200°F.
